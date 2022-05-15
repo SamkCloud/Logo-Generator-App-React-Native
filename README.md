@@ -6,8 +6,8 @@ Built BY shubham
 Unzip the code Files
 Open the `App.js`. You can preview all code and can check the working directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators.
 you can run the app on Android phone by Installing Expo Apk from play store.
-app link Playstore: https://play.google.com/store/apps/details?id=host.exp.exponent
-app assignment Project link : https://snack.expo.dev/@samkcloud/bikayiassigment
+# App link Playstore: https://play.google.com/store/apps/details?id=host.exp.exponent
+# App assignment Project link : https://snack.expo.dev/@samkcloud/bikayiassigment
 
 Project Motive: In project you can Create logo 
 This is prototype version of my app you can say 1.0 Built on 15th may 2022
